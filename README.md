@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=giminotron5&label=Profile%20views&color=0e75b6&style=flat" alt="giminotron5" /> 
 </p>
 
-- 💬 Ask me about **Embedded systems, Circuits, PCB**
+- 💬 Ask me about **Embedded systems, Circuits, PCBs**
 
 - ⚡ Fun fact **❤️𝕀 𝕝𝕠𝕧𝕖 𝔼𝕝𝕖𝕔𝕥𝕣𝕠𝕟𝕚𝕔❤️**
 
