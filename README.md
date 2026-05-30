@@ -50,12 +50,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
   </a>
 </p>
- 
-<td>
-<h3 align="left">🔝 Top Contributed Repo</h3>
-<p align="right">
-  <img src="https://github-contributor-stats.vercel.app/api?username=giminotron5&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repo"/>
-</p>
 
 </td>
 </tr>
